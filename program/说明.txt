@@ -1,0 +1,4 @@
+
+test.png/test1.png：原图
+step1_filter_30/40/50.bmp：将原图灰度值按照30/40/50的步长映射（例如30时，）
+fallInGradient.m：老师代码，将文件
